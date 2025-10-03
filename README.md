@@ -1,6 +1,6 @@
 # Film ELT Project
 
-This repository contains a custom Extract, Load, Transform (ELT) project that utilizes Docker and PostgreSQL to demonstrate a simple ELT process.
+This repository contains a  Extract, Load, Transform (ELT) project that utilizes Docker and PostgreSQL to demonstrate a simple ELT process. The goal of this project is to analyze film data and further strengthen understanding of dbt.
 
 ## Repository Structure
 
